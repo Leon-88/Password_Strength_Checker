@@ -4,7 +4,7 @@
 
 ## About
 
-This program checks the strength of imputed passwords by analyzing the its length and character composition for academic purposes. Concepts exercised include:
+This program checks the strength of inputted passwords by analyzing their length and character composition for academic purposes. Concepts exercised include:
 
 - functions
 - file operations
@@ -23,7 +23,7 @@ Common password list downloaded from: https://github.com/danielmiessler/SecLists
 
 ## Disclaimer/ Warning
 
-Password strength estimations made by the program are just suggestions, and may not be conducive to real world results. Do not rely on this tool when creating you own passwords. Use for learning purposes only.
+Password strength estimations made by the program are just suggestions and may not be conducive to real world results. Do not rely on this tool when creating your own passwords. Use for learning purposes only.
 
 ## License
 
