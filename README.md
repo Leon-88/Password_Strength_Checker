@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-> Updated: 10/16/2023
+> Updated: 1/10/2023
 
 ## About
 
